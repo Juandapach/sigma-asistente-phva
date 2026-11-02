@@ -1,0 +1,8 @@
+documentos/
+scripts/
+datos/metadatos.json
+*.xlsx
+.env
+entrega/
+*.docx
+*.bat
